@@ -35,22 +35,34 @@ In this Constitution, if not inconsistent with the context, the words and expres
 | 1.25 | **Voting Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the subject matter of (where applicable), and the procedure, qualifications and mechanism for, voting by Members and Custodians, including but not limited to quorums, consensus and staking of KROWN DAC Tokens |
 | 1.26 | **Website** | means the website published and maintained by or on behalf of the KROWN DAC and hosted at [https://www.krown.club](https://www.krown.club) or such other URL prescribed by Resolution. |
 | 1.27 | **Written** | or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication |
-| 1.28 | Whenever the singular or plural number, or the masculine, feminine or neuter gender is used in this Constitution, it shall equally, where the context admits, include the others |
-| 1.29| A reference in this Constitution to voting in relation to Members shall be construed as a reference to voting by Members to the extent of the number of  KROWN DAC Tokens held by such Members, with the votes being allocated to the number of such KROWN Tokens being counted as voted and not the number of Members who actually voted |
-| 1.30 | A reference to money in this Constitution is, unless otherwise stated, a reference to the _fiat_ currency of any internationally recognized government entity.
+
+&nbsp;&nbsp;&nbsp; **1.28** Whenever the singular or plural number, or the masculine, feminine or neuter gender is used in this Constitution, it shall equally, where the context admits, include the others |
+
+&nbsp;&nbsp;&nbsp; **1.29** A reference in this Constitution to voting in relation to Members shall be construed as a reference to voting by Members to the extent of the number of  KROWN DAC Tokens held by such Members, with the votes being allocated to the number of such KROWN Tokens being counted as voted and not the number of Members who actually voted |
+
+|&nbsp;&nbsp;&nbsp; **1.30** A reference to money in this Constitution is, unless otherwise stated, a reference to the _fiat_ currency of any internationally recognized government entity.
 
 # 2. **CORE PRINCIPLES**
 
-| 2.1 | The KROWN DAC shall be a decentralized autonomous community governed by this Constitution and administered through the medium of blockchain technology. |
-| 2.2 | The KROWN DAC shall be founded on the following core principles:
-| 2.2.1 | Nurturing the Ecosystem:** The primary objective of the KROWN DAC shall be to nurture and support the EOSIO ecosystem |
-| 2.2.2 | Excellence of Service:** KROWN DAC shall always strive for the following: |
-| 2.2.3 | Openness and Transparency:** All decisions made by the KROWN DAC governance structures and all operations of the KROWN DAC will be open and transparent. |
-| 2.2.4 | Support of Communities Worldwide:** Krown DAC shall engage with its communities, listen and support projects that benefit all EOSIO blockchain communities. |
-| 2.2.5 | Fairness:** KROWN DAC shall treat all members fairly, reward contributions appropriately and not seek unmerited profits. No one member should have less information about a decision than others. |
-| 2.2.6 | Independence:** KROWN DAC will not seek any stake in, or exert undue influence over, other block producers and shall take appropriate measures to protect its own independence. |
-| 2.2.7 | Respect of the EOS Constitution:** KROWN DAC shall respect the EOS blockchain(s) on which the KROWN DAC operates. To the extent that each EOSIO blockchain, for which KROWN DAC produces or procures continuous production of blocks, will have its own constitution or equivalent organizational instrument, KROWN DAC shall use its best efforts to adhere to such constitutions or organizational documents whilst acting in the interest of all chain token holders. |
-| 2.3 | To the extent permissible the provisions of the Constitution shall be interpreted in a manner consistent with the core principles.
+&nbsp;&nbsp;&nbsp; **2.1** The KROWN DAC shall be a decentralized autonomous community governed by this Constitution and administered through the medium of blockchain technology. |
+
+&nbsp;&nbsp;&nbsp; **2.1** The KROWN DAC shall be founded on the following core principles:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.1 Nurturing the Ecosystem:** The primary objective of the KROWN DAC shall be to nurture and support the EOSIO ecosystem 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.2 Excellence of Service:** KROWN DAC shall always strive for the following: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.3 Openness and Transparency:** All decisions made by the KROWN DAC governance structures and all operations of the KROWN DAC will be open and transparent. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.4 Support of EOSIO Communities Worldwide:** Krown DAC shall engage with its communities, listen and support projects that benefit all EOSIO blockchain communities. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.5 Fairness:** KROWN DAC shall treat all members fairly, reward contributions appropriately and not seek unmerited profits. No one member should have less information about a decision than others. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.6  Independence:** KROWN DAC will not seek any stake in, or exert undue influence over, other block producers and shall take appropriate measures to protect its own independence. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2.2.7 Respect of the EOS Constitution:** KROWN DAC shall respect the EOS blockchain(s) on which the KROWN DAC operates. To the extent that each EOSIO blockchain, for which KROWN DAC produces or procures continuous production of blocks, will have its own constitution or equivalent organizational instrument, KROWN DAC shall use its best efforts to adhere to such constitutions or organizational documents whilst acting in the interest of all chain token holders.
+
+&nbsp;&nbsp;&nbsp; **2.3**  To the extent permissible the provisions of the Constitution shall be interpreted in a manner consistent with the core principles.
 
  # 3. **KROWN TOKENS AND MEMBERSHIP**
 
