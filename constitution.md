@@ -66,58 +66,102 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
  # 3. **KROWN TOKENS AND MEMBERSHIP**
 
-| 3.1 | __Nature:__ KROWN Tokens shall, upon registration, constitute and represent the holder thereof as a Member of the KROWN DAC, to the extent of KROWN DAC Tokens held from time to time, and shall enable the automated governance of the KROWN DAC, all subject to and in accordance with the provisions of the Constitution. |
-| 3.2 | __Number:__ An initial number of 3,690,000,000 (three Billion and six Hundred ninety Million) KROWN DAC Tokens shall be made available for distribution by the Genesis Member at the Token Distribution, and thereafter the number of tokens shall be determined, or be determinable, in the manner prescribed by the Custodian Board, from time to time, by Extraordinary Resolution. |
-| 3.3 | __Membership:__ KROWN DAC Tokens shall, upon registration, constitute and represent the holder thereof, from time to time, as a Member of the KROWN DAC, entitled qua Member to all the benefits, and subject to all obligations, set out in this Constitution and in proportion to the number of KROWN DAC Tokens held by such holder, from time to time, PROVIDED ALWAYS that Membership shall be inseparably linked to possession and control of the KROWN Tokens and should any holder thereof lose possession or control of or over any such KROWN Tokens, such holder shall be deemed immediately terminated as a Member and shall not be entitled qua Member to any benefits, or subject to any obligations, as aforesaid, to the extent of the KROWN Tokens over which possession or control was lost. |
-| 3.4 | __Benefits of Members:__ The KROWN Tokens shall entitle the holder thereof and from time to time, _qua_ Member of the KROWN DAC, to the following rights in proportion to the number of KROWN Tokens held by such holder as measured against the total number of outstanding KROWN Tokens: |
-| 3.4.1. (a) | Right to Benefits to Members of the KROWN DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. |
-| 3.4.1. (b) | Right to Vote in the KROWN DAC on any matter requiring or permitting a vote by members of the KROWN DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. |
-| 3.4.1. (c) | Right to Distribution of Assets of the KROWN DAC, required or permitted to be distributed to Members of the KROWN DAC pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. |
-| 3.4.1. (d) | Right to Ownership of Assets of the KROWN DAC, in common with each other Member and inseparable from Membership, which right shall be subject to, governed by and administered in accordance with the provisions of the Constitution. |
-| 3.4.1. (e) | Right on Dissolution of KROWN DAC to distribution of any surplus assets of the KROWN DAC, which right shall be subject to, governed by and administered in accordance with the provisions of the Constitution. |
-| PROVIDED ALWAYS that, save and except as otherwise provided by the Constitution, no benefits of or accruing to Members, or any part thereof, under this provision, may be amended, restated, supplemented or otherwise modified other than by Extraordinary Resolution. |
-| 3.5 | __Obligations of Members:__ The KROWN DAC Tokens shall subject the holder thereof and from time to time, _qua_ Member of the KROWN DAC, to the following obligations in proportion to the number of KROWN Tokens held by such holder as measured against the total number of outstanding KROWN Tokens: |
-| 3.5.1. (a) | Obligation for Liabilities of the KROWN DAC, in common with each other Member and inseparable from Membership, which obligation shall be governed by and administered in accordance with the provisions of the Constitution. |
-| 3.5.1. (b) | Obligation of Governance by the KROWN DAC, binding each Member, and each Member's property rights held in common with each other Member, to governance by, and administration in accordance with, the provisions of the Constitution with respect to any matter relating to the KROWN Tokens, the KROWN DAC and/or the Constitution. |
-| PROVIDED ALWAYS that, save and except as otherwise provided by the Constitution, no obligation accruing to Members, or any part thereof, under this provision may be amended, restated, supplemented or otherwise modified other than by Extraordinary Resolution. |
-| 3.6 | __No Redemption:__  KROWN Tokens shall not be redeemable at the instance of the holder of a DAC Token or the KROWN DAC. |
-| 3.7 | Voluntary Cancellation of DAC Tokens: KROWN Tokens may be "burnt" at the insistence of any holder thereof, subject to and in accordance with this Constitution. Members wishing to "burn" KROWN Tokens (or any part thereof) shall be permitted to do so in accordance with the "burn transaction" prescribed by the KROWN DAC. Upon "burning" of a KROWN Token, the membership of the KROWN DAC linked to such KROWN Token shall expire immediately and the holder thereof shall have no further entitlements qua member to any benefit, and shall be subject to no further obligations, linked to the "burnt" KROWN Token, which rights and obligations shall stand assigned and/or distributed amongst the remaining KROWN Tokens. |
-| 3.8** __Transfer of DAC Tokens:__ |
-| 3.8.1 | KROWN Tokens shall be transferable by any holder thereof by delivery of possession and control thereof. |
-| 3.8.2 | Any transfer of KROWN Tokens shall be completed by registration of such KROWN Tokens by the transferee thereof and in accordance with the Constitution. |
-| 3.8.3 | Upon transfer of any KROWN Token, the transferor thereof shall cease to be a Member of the KROWN DAC, to the extent of the KROWN Tokens transferred, and the transferee thereof shall be constituted as a Member of the KROWN DAC and entitled _qua_ Member to all the benefits, and be subject to all obligations set out in this Constitution and in proportion to the number of KROWN Tokens transferred to such transferee and, for the purposes of the Constitution, all unrealized and/or undistributed benefits and obligations accruing with respect to the transferred KROWN Tokens shall be deemed assigned to the transferee as of the date of transfer. |
-| 3.9 | Member Information and Documentation: Upon request or notification, each Member shall immediately provide information and documents that the Custodian Board, in its sole discretion, deems necessary to comply with the laws, regulations or rules of or in relation to any applicable jurisdiction or blockchain, including but not limited to judicial decrees, order, processes or arbitral awards. Such documents or information shall include, but not be limited to, certified copies of Member's passport, utility bills, government identification cards, sworn statements and information and documentation relating to persons or entities affiliated with Member. Each Member expressly and irrevocably consents to the disclosure of such information and documentation, and the recording or making of copies thereof, required for compliance with any laws, regulations or rules of or in relation to any applicable jurisdiction or blockchain. Failure by a Member to immediately comply with any such request for information or documentation may result in measures taken against such Member, including but not limited to the unregistering of such Member, in accordance with the Constitution. |
-| 3.10 | __Unregistering of Member:__ Where expressly permitted by the provisions of the Constitution, a Member may be unregistered by Special Resolution of the Custodian Board whereupon any or all benefits accruing to such Member may be blocked, restricted and/or rendered inoperable, including but not limited to Right to Vote in the DAC and Right to Distribution of Assets of the KROWN DAC PROVIDED ALWAYS no amendment, restatement, supplement or other modification of the Constitution, providing any additional basis for the unregistering of a Member, shall be effected other than by Extraordinary Resolution. |
-| 3.11 | __Joint Holders:__ If several individuals  exercise joint possession and control of any KROWN Tokens, then such individuals shall be constituted as joint Members of the KROWN DAC and any one of such individuals  may exercise and/or give receipt for any benefit linked to such DAC Tokens held by such joint holders and such joint owners shall be jointly and severally subject to the obligations linked to such KROWN Tokens. |
-| 3.12 | __No Partnership, Joint Venture or Agency:__ Nothing in this Constitution and no action taken by any Member shall constitute, or be deemed to constitute a partnership, joint venture or any other association between the Members, and no action taken by any Member pursuant to this Constitution or otherwise shall constitute, or be deemed to constitute, any Member as the agent of any other Member or the KROWN DAC for any purpose whatsoever and no Member has, pursuant to this Constitution or otherwise, any authority or power to bind or to contract or to otherwise act in the name of or on behalf of any other Member or the KROWN DAC, all save and except as expressly provided in the Constitution and to the extent applicable with respect to the Custodian Board. |
+ &nbsp;&nbsp;&nbsp; **3.1** __Nature:__  KROWN Tokens shall, upon registration, constitute and represent the holder thereof as a Member of the KROWN DAC, to the extent of KROWN DAC Tokens held from time to time, and shall enable the automated governance of the KROWN DAC, all subject to and in accordance with the provisions of the Constitution. 
+ 
+&nbsp;&nbsp;&nbsp; **3.2**  __Number:__ An initial number of 3,690,000,000 (three Billion and six Hundred ninety Million) KROWN DAC Tokens shall be made available for distribution by the Genesis Member at the Token Distribution, and thereafter the number of tokens shall be determined, or be determinable, in the manner prescribed by the Custodian Board, from time to time, by Extraordinary Resolution. 
+
+&nbsp;&nbsp;&nbsp;**3.3**  __Membership:__ KROWN DAC Tokens shall, upon registration, constitute and represent the holder thereof, from time to time, as a Member of the KROWN DAC, entitled qua Member to all the benefits, and subject to all obligations, set out in this Constitution and in proportion to the number of KROWN DAC Tokens held by such holder, from time to time, PROVIDED ALWAYS that Membership shall be inseparably linked to possession and control of the KROWN Tokens and should any holder thereof lose possession or control of or over any such KROWN Tokens, such holder shall be deemed immediately terminated as a Member and shall not be entitled qua Member to any benefits, or subject to any obligations, as aforesaid, to the extent of the KROWN Tokens over which possession or control was lost. 
+
+ &nbsp;&nbsp;&nbsp; **3.4** __Benefits of Members:__ The KROWN Tokens shall entitle the holder thereof and from time to time, _qua_ Member of the KROWN DAC, to the following rights in proportion to the number of KROWN Tokens held by such holder as measured against the total number of outstanding KROWN Tokens: 
+
+1. (a) | Right to Benefits to Members of the KROWN DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. 
+
+1. (b) | Right to Vote in the KROWN DAC on any matter requiring or permitting a vote by members of the KROWN DAC prescribed by and pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. 
+
+1. (c) | Right to Distribution of Assets of the KROWN DAC, required or permitted to be distributed to Members of the KROWN DAC pursuant to the Constitution, which right shall be governed by and administered in accordance with the provisions of the Constitution. 
+
+1. (d) | Right to Ownership of Assets of the KROWN DAC, in common with each other Member and inseparable from Membership, which right shall be subject to, governed by and administered in accordance with the provisions of the Constitution. 
+
+1. (e) | Right on Dissolution of KROWN DAC to distribution of any surplus assets of the KROWN DAC, which right shall be subject to, governed by and administered in accordance with the provisions of the Constitution. 
+
+&nbsp;&nbsp;&nbsp; PROVIDED ALWAYS that, save and except as otherwise provided by the Constitution, no benefits of or accruing to Members, or any part thereof, under this provision, may be amended, restated, supplemented or otherwise modified other than by Extraordinary Resolution. 
+
+&nbsp;&nbsp;&nbsp; **3.5** __Obligations of Members:__ The KROWN DAC Tokens shall subject the holder thereof and from time to time, _qua_ Member of the KROWN DAC, to the following obligations in proportion to the number of KROWN Tokens held by such holder as measured against the total number of outstanding KROWN Tokens: 
+
+1. (a) | Obligation for Liabilities of the KROWN DAC, in common with each other Member and inseparable from Membership, which obligation shall be governed by and administered in accordance with the provisions of the Constitution. 
+
+1. (b) | Obligation of Governance by the KROWN DAC, binding each Member, and each Member's property rights held in common with each other Member, to governance by, and administration in accordance with, the provisions of the Constitution with respect to any matter relating to the KROWN Tokens, the KROWN DAC and/or the Constitution. 
+
+&nbsp;&nbsp;&nbsp; PROVIDED ALWAYS that, save and except as otherwise provided by the Constitution, no obligation accruing to Members, or any part thereof, under this provision may be amended, restated, supplemented or otherwise modified other than by Extraordinary Resolution. 
+
+&nbsp;&nbsp;&nbsp; **3.6**  __No Redemption:__  KROWN Tokens shall not be redeemable at the instance of the holder of a DAC Token or the KROWN DAC. 
+
+&nbsp;&nbsp;&nbsp; **3.7**  __Voluntary Cancellation of DAC Tokens:__ KROWN Tokens may be "burnt" at the insistence of any holder thereof, subject to and in accordance with this Constitution. Members wishing to "burn" KROWN Tokens (or any part thereof) shall be permitted to do so in accordance with the "burn transaction" prescribed by the KROWN DAC. Upon "burning" of a KROWN Token, the membership of the KROWN DAC linked to such KROWN Token shall expire immediately and the holder thereof shall have no further entitlements qua member to any benefit, and shall be subject to no further obligations, linked to the "burnt" KROWN Token, which rights and obligations shall stand assigned and/or distributed amongst the remaining KROWN Tokens. 
+
+ &nbsp;&nbsp;&nbsp;**3.8** __Transfer of DAC Tokens:__ 
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.8.1**  KROWN Tokens shall be transferable by any holder thereof by delivery of possession and control thereof. 
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **3.8.2**  Any transfer of KROWN Tokens shall be completed by registration of such KROWN Tokens by the transferee thereof and in accordance with the Constitution. 
+
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.8.3** | Upon transfer of any KROWN Token, the transferor thereof shall cease to be a Member of the KROWN DAC, to the extent of the KROWN Tokens transferred, and the transferee thereof shall be constituted as a Member of the KROWN DAC and entitled _qua_ Member to all the benefits, and be subject to all obligations set out in this Constitution and in proportion to the number of KROWN Tokens transferred to such transferee and, for the purposes of the Constitution, all unrealized and/or undistributed benefits and obligations accruing with respect to the transferred KROWN Tokens shall be deemed assigned to the transferee as of the date of transfer. 
+
+&nbsp;&nbsp;&nbsp; **3.9**  __Member Information and Documentation:__ Upon request or notification, each Member shall immediately provide information and documents that the Custodian Board, in its sole discretion, deems necessary to comply with the laws, regulations or rules of or in relation to any applicable jurisdiction or blockchain, including but not limited to judicial decrees, order, processes or arbitral awards. Such documents or information shall include, but not be limited to, certified copies of Member's passport, utility bills, government identification cards, sworn statements and information and documentation relating to persons or entities affiliated with Member. Each Member expressly and irrevocably consents to the disclosure of such information and documentation, and the recording or making of copies thereof, required for compliance with any laws, regulations or rules of or in relation to any applicable jurisdiction or blockchain. Failure by a Member to immediately comply with any such request for information or documentation may result in measures taken against such Member, including but not limited to the unregistering of such Member, in accordance with the Constitution. 
+
+&nbsp;&nbsp;&nbsp; **3.10**  __Unregistering of Member:__ Where expressly permitted by the provisions of the Constitution, a Member may be unregistered by Special Resolution of the Custodian Board whereupon any or all benefits accruing to such Member may be blocked, restricted and/or rendered inoperable, including but not limited to Right to Vote in the DAC and Right to Distribution of Assets of the KROWN DAC PROVIDED ALWAYS no amendment, restatement, supplement or other modification of the Constitution, providing any additional basis for the unregistering of a Member, shall be effected other than by Extraordinary Resolution. 
+
+&nbsp;&nbsp;&nbsp; **3.11**  __Joint Holders:__ If several individuals  exercise joint possession and control of any KROWN Tokens, then such individuals shall be constituted as joint Members of the KROWN DAC and any one of such individuals  may exercise and/or give receipt for any benefit linked to such DAC Tokens held by such joint holders and such joint owners shall be jointly and severally subject to the obligations linked to such KROWN Tokens. 
+
+&nbsp;&nbsp;&nbsp; **3.12** __No Partnership, Joint Venture or Agency:__ Nothing in this Constitution and no action taken by any Member shall constitute, or be deemed to constitute a partnership, joint venture or any other association between the Members, and no action taken by any Member pursuant to this Constitution or otherwise shall constitute, or be deemed to constitute, any Member as the agent of any other Member or the KROWN DAC for any purpose whatsoever and no Member has, pursuant to this Constitution or otherwise, any authority or power to bind or to contract or to otherwise act in the name of or on behalf of any other Member or the KROWN DAC, all save and except as expressly provided in the Constitution and to the extent applicable with respect to the Custodian Board. 
+
 # 4. **PROPOSALS AND VOTING OF MEMBERS**
 
-| 4.1 | Each Member shall be permitted to vote on the appointment of Custodians to the Custodian Board, and on any other matters prescribed by or pursuant to the Constitution, in proportion to the number of KROWN DAC Tokens held by such Member and in accordance with the provisions of the Constitution. |
-| 4.2 | Subject to the provisions of any Voting Directive, a quorum for the purposes of any vote of Members prescribed by the Constitution shall be 10% of the outstanding KROWN Tokens, from time to time, save and except that a quorum with respect to the vote of Members for the formation of the first Custodian Board, superseding the Genesis Board, shall be 10% of the outstanding KROWN Tokens. |
-| 4.3 | Voting by Members on the appointment of Custodians to the Custodian Board, and on any other matters prescribed by the Constitution, shall be in accordance with the procedure, qualifications and mechanism for voting, including but not limited to quorums, consensus, and staking of KROWN DAC Tokens as prescribed by Voting Directive from time to time. |
-| 4.5 | Any Member shall be entitled to submit Proposals for the consideration and determination of the Custodian Board in accordance with the subject matter, procedure, qualifications and mechanism, including but not limited to staking of KROWN DAC Tokens, as prescribed by Proposal Directive from time to time. |
-| 4.6 | The usage of any KROWN Tokens for the purposes of submission of Proposals and voting of Members, or any other purpose prescribed by the Constitution, shall be deemed the usage by the holder thereof, whether or not such usage was affected  by such holder, any servant or agent thereof or any other person whether authorized or unauthorized. |
-| 4.7 | Members may be permitted to vote by proxy in the manner prescribed, and subject to, any Voting Directive from time to time. |
+ &nbsp;&nbsp;&nbsp; **4.1**  Each Member shall be permitted to vote on the appointment of Custodians to the Custodian Board, and on any other matters prescribed by or pursuant to the Constitution, in proportion to the number of KROWN DAC Tokens held by such Member and in accordance with the provisions of the Constitution. 
+
+ &nbsp;&nbsp;&nbsp; **4.2**  Subject to the provisions of any Voting Directive, a quorum for the purposes of any vote of Members prescribed by the Constitution shall be 10% of the outstanding KROWN Tokens, from time to time, save and except that a quorum with respect to the vote of Members for the formation of the first Custodian Board, superseding the Genesis Board, shall be 10% of the outstanding KROWN Tokens. 
+
+ &nbsp;&nbsp;&nbsp; **4.3**  Voting by Members on the appointment of Custodians to the Custodian Board, and on any other matters prescribed by the Constitution, shall be in accordance with the procedure, qualifications and mechanism for voting, including but not limited to quorums, consensus, and staking of KROWN DAC Tokens as prescribed by Voting Directive from time to time. 
+
+&nbsp;&nbsp;&nbsp; **4.5**  Any Member shall be entitled to submit Proposals for the consideration and determination of the Custodian Board in accordance with the subject matter, procedure, qualifications and mechanism, including but not limited to staking of KROWN DAC Tokens, as prescribed by Proposal Directive from time to time. 
+
+&nbsp;&nbsp;&nbsp; **4.6**  The usage of any KROWN Tokens for the purposes of submission of Proposals and voting of Members, or any other purpose prescribed by the Constitution, shall be deemed the usage by the holder thereof, whether or not such usage was affected  by such holder, any servant or agent thereof or any other person whether authorized or unauthorized. 
+
+&nbsp;&nbsp;&nbsp; **4.7**  Members may be permitted to vote by proxy in the manner prescribed, and subject to, any Voting Directive from time to time. 
 
 # 5. **CUSTODIAN BOARD**
 
-| 5.1 | Until such time as the first Custodian Board is constituted, the Genesis Member shall be deemed, and shall have the powers and duties of, the Custodian Board for the purposes of the Constitution. |
-| 5.2 | The Custodian Board shall be elected by vote of the Members, with the eleven (11) candidates receiving the highest number of votes being appointed to serve on the Custodian Board. |
-| 5.3 | Each Custodian shall be entitled to cast one (1) vote with regard to any Resolution, Special Resolution or Extraordinary Resolution in relation to any Proposal or Custodian Proposal, or any other matter prescribed by the Constitution to be determined by the Custodian Board. |
-| 5.4 | Each candidate for the position of Custodian must be a Member and may be an individual or a legal entity. |
-| 5.5 | Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount of one (1) EOS for each one (1) lunar cycle (27.321 days) term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution. |
-| 5.6 | Each Custodian shall hold office for the term of calendar month, commencing at midnight on the date of appointment and concluding on the final day of such lunar cycle, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold. |
-| 5.7 | In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual’s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian. |
-| 5.8 | Emoluments of each Custodian during a term shall be the mean of the Candidate Emoluments Declaration of Custodians appointed for such term divided by eleven (11), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive. |
+&nbsp;&nbsp;&nbsp; **5.1**  Until such time as the first Custodian Board is constituted, the Genesis Member shall be deemed, and shall have the powers and duties of, the Custodian Board for the purposes of the Constitution. 
+
+&nbsp;&nbsp;&nbsp; **5.2**  The Custodian Board shall be elected by vote of the Members, with the eleven (11) candidates receiving the highest number of votes being appointed to serve on the Custodian Board. 
+
+&nbsp;&nbsp;&nbsp; **5.3**  Each Custodian shall be entitled to cast one (1) vote with regard to any Resolution, Special Resolution or Extraordinary Resolution in relation to any Proposal or Custodian Proposal, or any other matter prescribed by the Constitution to be determined by the Custodian Board. 
+
+&nbsp;&nbsp;&nbsp; **5.4**  Each candidate for the position of Custodian must be a Member and may be an individual or a legal entity. 
+
+&nbsp;&nbsp;&nbsp; **5.5**  Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount of one (1) EOS for each one (1) lunar cycle (27.321 days) term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution. 
+
+&nbsp;&nbsp;&nbsp; **5.6**  Each Custodian shall hold office for the term of calendar month, commencing at midnight on the date of appointment and concluding on the final day of such lunar cycle, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold. 
+
+&nbsp;&nbsp;&nbsp; **5.7**  In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual’s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian. 
+
+&nbsp;&nbsp;&nbsp; **5.8**  Emoluments of each Custodian during a term shall be the mean of the Candidate Emoluments Declaration of Custodians appointed for such term divided by eleven (11), and shall be paid to each Custodian automatically and at the expiration of each term held by such Custodian or as otherwise provided by Nomination Directive. 
 
 &nbsp;&nbsp;&nbsp; **5.9** A Custodian may be removed from office, with or without cause, by Special Resolution of the Custodian Board. |
 
-| 5.10 | A Custodian may resign their office by giving written notice of their resignation to the Custodian Board and the resignation shall have effect from the date the notice is received by the Custodian Board or from such later date as may be specified in the notice. |
-| 5.11 | A vacancy in the Custodian Board shall immediately, and without more, be filled, for the remainder of the term, by the appointment of the Candidate holding the highest number of votes on the candidate voting roster, but not currently serving as a Custodian, at the time of the creation of the vacancy. |
-| 5.12 | The Custodian Board may determine by Resolution to maintain a record, in such form determined by the Custodian Board, of Custodians containing: |
-| 5.12.1 | the name, contact details (including email addresses) and/or addresses of the persons  and/ or individuals appointed as Custodians; |
-| 5.12.2 | the date on which each persons and/ or individuals whose name is entered in the record of Custodians was appointed as a Custodian; and |
-| 5.12.3 | the date on which each persons  and/ or individuals named as a Custodian ceased to be a Custodian of the Custodian Board.
+&nbsp;&nbsp;&nbsp; **5.10** | A Custodian may resign their office by giving written notice of their resignation to the Custodian Board and the resignation shall have effect from the date the notice is received by the Custodian Board or from such later date as may be specified in the notice. 
+
+&nbsp;&nbsp;&nbsp; **5.11**  A vacancy in the Custodian Board shall immediately, and without more, be filled, for the remainder of the term, by the appointment of the Candidate holding the highest number of votes on the candidate voting roster, but not currently serving as a Custodian, at the time of the creation of the vacancy. 
+
+&nbsp;&nbsp;&nbsp; **5.12** The Custodian Board may determine by Resolution to maintain a record, in such form determined by the Custodian Board, of Custodians containing: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.12.1**  the name, contact details (including email addresses) and/or addresses of the persons  and/ or individuals appointed as Custodians; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.12.2**  the date on which each persons and/ or individuals whose name is entered in the record of Custodians was appointed as a Custodian; and 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **5.12.3**  the date on which each persons  and/ or individuals named as a Custodian ceased to be a Custodian of the Custodian Board.
 
 # 6. **POWER OF CUSTODIAN BOARD**
 
@@ -137,95 +181,124 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 # 7. **PROCEEDINGS OF CUSTODIAN BOARD**
 
-| 7.1 | The Custodians of the Custodian Board may meet, whether in person, by video or audio communication, electronic mail/messaging or such other or further means of communication, at such times and in such manner and at such places as the Custodians may determine to be necessary or desirable. |
-| 7.2 | A Custodian shall be deemed to be present at a meeting of Custodians of the Custodian Board if they participate in person, by video or audio communication, electronic mail/messaging or such other or further means of communication that allows all other Custodians participating in the meeting to be able to view, hear or otherwise interact with each others communication in real time. |
-| 7.3 | A Custodian shall be given not less than twenty four (24) hours notice of meetings of Custodians of the Custodian Board, but such meeting of Custodians held without twenty four (24) hours notice having been given to all Custodians shall be valid if all the Custodians entitled to vote at such meeting who do not attend, waive notice of the meeting; and for this purpose, the presence or vote of a Custodian at the meeting shall be deemed to constitute a waiver on their part. The inadvertent failure to give notice of a meeting to a Custodian, or the fact that a Custodian has not received the notice, does not invalidate the meeting. |
-| 7.4 | All proceedings of the Custodian Board shall be conducted in the English language. |
-| 7.5 | Voting by Custodians with respect to any Resolution, Special Resolution or Extraordinary Resolution determining a Proposal, Custodian Proposal or on any other matter prescribed by the Constitution, shall be in accordance with the subject matter, procedure, qualifications and mechanism for voting, including but not limited to quorums, consensus, and any staking of KROWN Tokens, prescribed by Voting Directive from time to time and which may or may not require a meeting of the Custodian Board. |
-| 7.6 | Any Custodian shall be entitled to submit Custodian Proposals, relating to the operations and affairs of the KROWN DAC and for the consideration and determination of the Custodian Board, in accordance with the subject matter, procedure, qualifications and mechanism, including but not limited to staking of KROWN Tokens, as prescribed by Proposal Directive from time to time. |
-| 7.7 | Unless otherwise stated in the Constitution or any Voting Directive, from time to time, all matters for determination by the Custodian Board shall be determined by simple Resolution. |
-| 7.8 | Immediately upon determination of any matter by Resolution, Special Resolution or Extraordinary Resolution, the Custodian Board shall publish on the blockchain (a) whether or not the matter has been approved or rejected by Resolution, Special Resolution or Extraordinary Resolution (b) the number of votes in favour and against in reaching such determination and (c) the vote of each Custodian with respect to such Proposal. |
-| 7.9 | Subject to the provisions of any Voting Directive, a quorum for any vote by the Custodian Board with respect to any Resolution, Special Resolution or Extraordinary Resolution shall be eight (8) Custodians able to cast votes in the manner prescribed by Voting Directive.|
-| 7.10 | The Custodian Board may, by Resolution, cause the following records to be kept: |
-| 7.10.1 | minutes of any meetings of Custodians; |
-| 7.10.2 | copies of all Resolutions, Special Resolutions or Extraordinary Resolutions by the Custodian Board; and |
-| 7.10.3 | such other accounts and records as the Custodian Board considered necessary or desirable inorder to reflect the financial position of the Custodian Board or Krown DAC. |
-| 7.11 | The Records shall be kept at such place or places, and in such form (including electronic form) as the Custodian Board, from time to time, determined by Resolution. |
-| 7.12 | The Custodian Board may, by a Resolution, designate one or more committees, each consisting of one or more Custodians to do such things, make such investigations or inquiries and make such reports as determined by the Custodian Board by Resolution. |
-| 7.13 | The Custodian Board may, but shall not be required to, by Special Resolution determine, from time to time, that specific issues substantially affecting or capable of substantially affecting the KROWN DAC shall be put before the KROWN DAC for determination by a vote of Members.|
+&nbsp;&nbsp;&nbsp; **7.1**  The Custodians of the Custodian Board may meet, whether in person, by video or audio communication, electronic mail/messaging or such other or further means of communication, at such times and in such manner and at such places as the Custodians may determine to be necessary or desirable. 
+
+&nbsp;&nbsp;&nbsp; **7.2**  A Custodian shall be deemed to be present at a meeting of Custodians of the Custodian Board if they participate in person, by video or audio communication, electronic mail/messaging or such other or further means of communication that allows all other Custodians participating in the meeting to be able to view, hear or otherwise interact with each others communication in real time. 
+
+&nbsp;&nbsp;&nbsp; **7.3**  A Custodian shall be given not less than twenty four (24) hours notice of meetings of Custodians of the Custodian Board, but such meeting of Custodians held without twenty four (24) hours notice having been given to all Custodians shall be valid if all the Custodians entitled to vote at such meeting who do not attend, waive notice of the meeting; and for this purpose, the presence or vote of a Custodian at the meeting shall be deemed to constitute a waiver on their part. The inadvertent failure to give notice of a meeting to a Custodian, or the fact that a Custodian has not received the notice, does not invalidate the meeting. 
+
+&nbsp;&nbsp;&nbsp; **7.4**  All proceedings of the Custodian Board shall be conducted in the English language. 
+
+&nbsp;&nbsp;&nbsp; **7.5**  Voting by Custodians with respect to any Resolution, Special Resolution or Extraordinary Resolution determining a Proposal, Custodian Proposal or on any other matter prescribed by the Constitution, shall be in accordance with the subject matter, procedure, qualifications and mechanism for voting, including but not limited to quorums, consensus, and any staking of KROWN Tokens, prescribed by Voting Directive from time to time and which may or may not require a meeting of the Custodian Board. 
+
+&nbsp;&nbsp;&nbsp; **7.6**  Any Custodian shall be entitled to submit Custodian Proposals, relating to the operations and affairs of the KROWN DAC and for the consideration and determination of the Custodian Board, in accordance with the subject matter, procedure, qualifications and mechanism, including but not limited to staking of KROWN Tokens, as prescribed by Proposal Directive from time to time. 
+
+&nbsp;&nbsp;&nbsp; **7.7**  Unless otherwise stated in the Constitution or any Voting Directive, from time to time, all matters for determination by the Custodian Board shall be determined by simple Resolution. 
+
+&nbsp;&nbsp;&nbsp; **7.8**  Immediately upon determination of any matter by Resolution, Special Resolution or Extraordinary Resolution, the Custodian Board shall publish on the blockchain (a) whether or not the matter has been approved or rejected by Resolution, Special Resolution or Extraordinary Resolution (b) the number of votes in favour and against in reaching such determination and (c) the vote of each Custodian with respect to such Proposal. 
+
+&nbsp;&nbsp;&nbsp; **7.9** Subject to the provisions of any Voting Directive, a quorum for any vote by the Custodian Board with respect to any Resolution, Special Resolution or Extraordinary Resolution shall be eight (8) Custodians able to cast votes in the manner prescribed by Voting Directive.
+
+&nbsp;&nbsp;&nbsp; **7.10**  The Custodian Board may, by Resolution, cause the following records to be kept: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **7.10.1**  minutes of any meetings of Custodians; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **7.10.2**  copies of all Resolutions, Special Resolutions or Extraordinary Resolutions by the Custodian Board; and 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **7.10.3**  such other accounts and records as the Custodian Board considered necessary or desirable inorder to reflect the financial position of the Custodian Board or Krown DAC. 
+
+&nbsp;&nbsp;&nbsp; **7.11**  The Records shall be kept at such place or places, and in such form (including electronic form) as the Custodian Board, from time to time, determined by Resolution. 
+
+&nbsp;&nbsp;&nbsp; **7.12**  The Custodian Board may, by a Resolution, designate one or more committees, each consisting of one or more Custodians to do such things, make such investigations or inquiries and make such reports as determined by the Custodian Board by Resolution. 
+
+&nbsp;&nbsp;&nbsp; **7.13**  The Custodian Board may, but shall not be required to, by Special Resolution determine, from time to time, that specific issues substantially affecting or capable of substantially affecting the KROWN DAC shall be put before the KROWN DAC for determination by a vote of Members.|
 
 # 8. **CONFLICT OF INTERESTS**
 
-| 8.1 | No agreement or transaction between the KROWN DAC and one or more of its Custodians, or any person in which any Custodian has a financial interest or to whom any Custodian is related, is void or voidable for this reason only or by reason only that the Custodian participates in any voting on such agreement or transaction and that the vote of such Custodian counted for that purpose PROVIDED ALWAYS that the material facts of the interest of the relevant Custodian shall be disclosed in good faith to the other Custodians prior to any vote with respect to the agreement or transaction. |
+&nbsp;&nbsp;&nbsp; **8.1**  No agreement or transaction between the KROWN DAC and one or more of its Custodians, or any person in which any Custodian has a financial interest or to whom any Custodian is related, is void or voidable for this reason only or by reason only that the Custodian participates in any voting on such agreement or transaction and that the vote of such Custodian counted for that purpose PROVIDED ALWAYS that the material facts of the interest of the relevant Custodian shall be disclosed in good faith to the other Custodians prior to any vote with respect to the agreement or transaction. 
 
 # 9. **INDEMNIFICATION**
 
-| 9.1 | Subject to the limitations hereinafter provided, the Custodian Board shall, out of the assets of the KROWN DAC, indemnify against all expenses, including legal fees, and against all judgments, fines, damages and amounts paid in settlement and reasonably incurred in connection with legal, administrative or investigative proceedings any person who: |
-| 9.1.1 | is or was a party or is threatened to be made a party to any threatened, pending or completed proceedings, whether civil, criminal, administrative or investigative, by reason of the fact that the person is or was a Custodian or an officer, consultant, advisor, affiliate, servant, agent or service provider, past, present or future, of the KROWN DAC or Custodian Board. |
-| 9.1.2 | is or was a party or is threatened to be made a party to any threatened, pending or completed proceedings, whether civil, criminal, administrative or investigative, by reason of the fact that the person is a Member of the KROWN DAC and such proceedings is or was alleged or premised on the basis of joint or several liability of such Member for any act or omission of the KROWN DAC or Custodian Board. |
-| 9.2 | The Custodian Board may restrict indemnification of any person and/ or individuals on the prerequisite that the person and/ or individuals  acted honestly and in good faith with a view to the best interests of the KROWN DAC or Custodian Board and was not aware that their conduct was unlawful.|
-| 9.3 | The decision of the Custodian Board as to whether the person and/ or individual acted honestly and in good faith and with a view to the best interests of the KROWN DAC or Custodian Board is, in the absence of fraud, sufficient for the purposes of this Constitution, unless a question of law is involved. |
-| 9.4 | In furtherance of the indemnification of any person and/ or individuals, the Governing Board shall provide moneys, or any other medium of value, in advance, for the purposes of meeting any legal fees and expenses required in defending or prosecuting any legal, administrative or investigative proceedings by or against the indemnified person and/ or individuals. |
-| 9.5 | The Custodian Board may purchase and maintain insurance in relation to any obligation to indemnify any person and/ or individuals pursuant to the Constitution. |
-| 9.6 | The Custodian Board shall establish an indemnification reserve, in such amounts, in such currencies or stores of value and to be funded or accumulated in such manner, as is determined by the Custodian Board by Resolution. |
+&nbsp;&nbsp;&nbsp; **9.1**  Subject to the limitations hereinafter provided, the Custodian Board shall, out of the assets of the KROWN DAC, indemnify against all expenses, including legal fees, and against all judgments, fines, damages and amounts paid in settlement and reasonably incurred in connection with legal, administrative or investigative proceedings any person who: 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9.1.1**  is or was a party or is threatened to be made a party to any threatened, pending or completed proceedings, whether civil, criminal, administrative or investigative, by reason of the fact that the person is or was a Custodian or an officer, consultant, advisor, affiliate, servant, agent or service provider, past, present or future, of the KROWN DAC or Custodian Board. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **9.1.2**  is or was a party or is threatened to be made a party to any threatened, pending or completed proceedings, whether civil, criminal, administrative or investigative, by reason of the fact that the person is a Member of the KROWN DAC and such proceedings is or was alleged or premised on the basis of joint or several liability of such Member for any act or omission of the KROWN DAC or Custodian Board. 
+
+&nbsp;&nbsp;&nbsp; **9.2**  The Custodian Board may restrict indemnification of any person and/ or individuals on the prerequisite that the person and/ or individuals  acted honestly and in good faith with a view to the best interests of the KROWN DAC or Custodian Board and was not aware that their conduct was unlawful.
+
+&nbsp;&nbsp;&nbsp; **9.3**  The decision of the Custodian Board as to whether the person and/ or individual acted honestly and in good faith and with a view to the best interests of the KROWN DAC or Custodian Board is, in the absence of fraud, sufficient for the purposes of this Constitution, unless a question of law is involved. 
+
+&nbsp;&nbsp;&nbsp; **9.4**  In furtherance of the indemnification of any person and/ or individuals, the Governing Board shall provide moneys, or any other medium of value, in advance, for the purposes of meeting any legal fees and expenses required in defending or prosecuting any legal, administrative or investigative proceedings by or against the indemnified person and/ or individuals. 
+
+&nbsp;&nbsp;&nbsp; **9.5**  The Custodian Board may purchase and maintain insurance in relation to any obligation to indemnify any person and/ or individuals pursuant to the Constitution. 
+
+&nbsp;&nbsp;&nbsp; **9.6**  The Custodian Board shall establish an indemnification reserve, in such amounts, in such currencies or stores of value and to be funded or accumulated in such manner, as is determined by the Custodian Board by Resolution. 
 
 # 10. **DISTRIBUTION OF ASSETS TO MEMBERS**
 
-|10.1 | The Custodian Board shall by Resolution and from time to time determine that any assets of the KROWN DAC, including but not limited to cryptocurrencies, moneys or other stores of value, received by or on behalf of the KROWN DAC or Custodian Board be distributed to the Members of the KROWN DAC in proportion to the number of KROWN Tokens held by such Members. |
-| 10.2 | The Custodian Board shall, before any Distribution of Assets, set aside out of the assets of the KROWN DAC, such assets as the Custodian Board considers proper for the purposes of any reserve funds, and may invest such assets so set apart for any reserve funds in such manner as the Custodian Board may determine by Resolution PROVIDED ALWAYS that the reserve funds shall at all times, to the furthest extent possible, be sufficient to maintain the normal operations and affairs of the KROWN DAC for a period of no less than six (6) months. |
-| 10.3 | No Distribution of Assets shall be made unless the Custodian Board determines that immediately after such Distribution of Assets the DAC or Custodian Board will be able to satisfy the liabilities of the KROWN DAC (including any reserve funds) as they come due in the ordinary course of its operations and affairs, and the realisable value of the assets of the KROWN DAC will not be less than the sum of its total liabilities. In the absence of fraud, the decision of the Custodian Board as to the realisable value of the assets of the KROWN DAC shall be conclusive. |
-| 10.4 | No Distribution of Assets shall bear interest as against the KROWN DAC. |
-| 10.5 | Notwithstanding any other provision of the Constitution, the entitlement of any Member to a Distribution of Assets, as affected by the KROWN DAC or Custodian Board from time to time, shall be conditional on such Member electing to receive such Distribution of Assets, in accordance with the procedure and mechanism prescribed by the Custodian Board, from time to time and failing such election by the time of any Distribution of Assets, the entitlement of such Member shall be deemed to have been irrevocably waived and the relevant assets shall be distributed in lieu thereof amongst the remaining Members of the KROWN DAC. |
+&nbsp;&nbsp;&nbsp; **10.1** The Custodian Board shall by Resolution and from time to time determine that any assets of the KROWN DAC, including but not limited to cryptocurrencies, moneys or other stores of value, received by or on behalf of the KROWN DAC or Custodian Board be distributed to the Members of the KROWN DAC in proportion to the number of KROWN Tokens held by such Members. 
+
+ &nbsp;&nbsp;&nbsp; **10.2** The Custodian Board shall, before any Distribution of Assets, set aside out of the assets of the KROWN DAC, such assets as the Custodian Board considers proper for the purposes of any reserve funds, and may invest such assets so set apart for any reserve funds in such manner as the Custodian Board may determine by Resolution PROVIDED ALWAYS that the reserve funds shall at all times, to the furthest extent possible, be sufficient to maintain the normal operations and affairs of the KROWN DAC for a period of no less than six (6) months. 
+ 
+ &nbsp;&nbsp;&nbsp; **10.3** No Distribution of Assets shall be made unless the Custodian Board determines that immediately after such Distribution of Assets the DAC or Custodian Board will be able to satisfy the liabilities of the KROWN DAC (including any reserve funds) as they come due in the ordinary course of its operations and affairs, and the realisable value of the assets of the KROWN DAC will not be less than the sum of its total liabilities. In the absence of fraud, the decision of the Custodian Board as to the realisable value of the assets of the KROWN DAC shall be conclusive. 
+ 
+ &nbsp;&nbsp;&nbsp; **10.4** No Distribution of Assets shall bear interest as against the KROWN DAC. 
+ 
+ &nbsp;&nbsp;&nbsp; **10.5** Notwithstanding any other provision of the Constitution, the entitlement of any Member to a Distribution of Assets, as affected by the KROWN DAC or Custodian Board from time to time, shall be conditional on such Member electing to receive such Distribution of Assets, in accordance with the procedure and mechanism prescribed by the Custodian Board, from time to time and failing such election by the time of any Distribution of Assets, the entitlement of such Member shall be deemed to have been irrevocably waived and the relevant assets shall be distributed in lieu thereof amongst the remaining Members of the KROWN DAC. 
 
 # 11. **ACCOUNTING**
 
-| 11.1 | All decisions, transactions and/or accounting for the KROWN DAC shall be viewable by all Members on the Website and/or on the blockchain hosting the KROWN DAC. |
+ &nbsp;&nbsp;&nbsp; **11.1**  All decisions, transactions and/or accounting for the KROWN DAC shall be viewable by all Members on the Website and/or on the blockchain hosting the KROWN DAC. 
 
 # 12. **AUDIT**
 
-| 12.1 | The Custodian Board may, but shall not be required to, call for the accounts to be examined by auditors and upon such terms and conditions, including appointment of auditors, as the Custodian Board may determinate by Special Resolution. |
+&nbsp;&nbsp;&nbsp; **12.1**  The Custodian Board may, but shall not be required to, call for the accounts to be examined by auditors and upon such terms and conditions, including appointment of auditors, as the Custodian Board may determinate by Special Resolution. 
 
 # 13. **NOTICES**
 
-| 13.1 | Any agreements, notices, disclosures and other communications provided or to be provided to Members pursuant to the Constitution may be provided to Members or Custodians by publication on the Website or dissemination in electronic form or in such other form or manner as determined by Resolution of the Custodian Board from time to time and, immediately upon such publication or dissemination, Member or Custodian shall be deemed to have notice thereof. |
+&nbsp;&nbsp;&nbsp; **13.1**  Any agreements, notices, disclosures and other communications provided or to be provided to Members pursuant to the Constitution may be provided to Members or Custodians by publication on the Website or dissemination in electronic form or in such other form or manner as determined by Resolution of the Custodian Board from time to time and, immediately upon such publication or dissemination, Member or Custodian shall be deemed to have notice thereof. 
 
 # 14. **RESOLUTION OF DIFFERENCES**
 
-| 14.1 | In any case (if any) where under the Constitution any act or thing may be done by, on behalf of, or in relation to the KROWN DAC by either vote of Members or by Resolution of the Custodian Board and there is a difference, then the determination of the Members shall prevail. |
+&nbsp;&nbsp;&nbsp; **14.1**  In any case (if any) where under the Constitution any act or thing may be done by, on behalf of, or in relation to the KROWN DAC by either vote of Members or by Resolution of the Custodian Board and there is a difference, then the determination of the Members shall prevail. 
 
 # 15. **RESOLUTION OF DISPUTES**
 
-| 15.1 | Informal Dispute Resolution: Members and Custodians shall cooperate in good faith to resolve any dispute, controversy or claim arising out of, relating to or in connection with the Constitution of the KROWN DAC, including with respect to the formation, applicability, breach, termination, validity or enforceability thereof ("Dispute"). If the parties to any Dispute are unable to resolve a Dispute within ninety (90) days of notice of such Dispute being received by all parties thereof, such Dispute shall be finally settled by Binding Arbitration, as defined hereinafter. |
-| 15.2 | Binding Arbitration: Any Dispute not resolved within 90 days as set forth herein shall be referred to and finally resolved by arbitration under the __?__ American l Arbitration Division  (AAD) rules in effect at the time of the arbitration, except as they may be modified herein or by mutual agreement of the parties to such arbitration. The number of arbitrators shall be one, who shall be selected by the parties to the arbitration. The seat, or legal place, of arbitration shall be London, England. The language to be used in the arbitral proceedings shall be English. The governing law, for the purposes only of the interpretation and constructions of the provisions of the Constitution, and the contractual relations created thereby, shall be the laws of Anguilla. The arbitration award shall be final and binding on the parties thereto. Each Member and Custodian undertakes to carry out any award without delay and waive its right to any form of recourse insofar as such waiver can validly be made. Judgment upon the award may be entered by any court having jurisdiction thereof or having jurisdiction over the relevant party or its assets. Without prejudice to any indemnification provision of the Constitution, each party to arbitration shall pay their respective attorney’s fees and expenses. |
-| 15.3 | No Class Arbitrations, Class Actions or Representative Actions: Any dispute arising out of or related to the Constitution shall be personal to the parties to the arbitration and shall not be brought as a class arbitration, class action or any other type of representative proceeding. There shall be no class arbitration or arbitration in which an individual attempts to resolve a dispute as a representative of another individual or group of individuals. Further, and to the furthest extent permitted by applicable law, a dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals. |
-| 15.4 | Without prejudice to any other limitation of liability, disclaimer, waiver or release prescribed by the Constitution or any part thereof (including but not limited to the Terms and Conditions), and to the furthest extent permitted by any applicable law, any claims, demands, actions, damages or proceedings by any Member against the KROWN DAC, Custodian Board (or any servant or agent thereof), or any other Member, with respect to any action or omission of such persons and arising out of or related to the Constitution shall be limited to the assets of the KROWN DAC, as exist from time to time. |
+&nbsp;&nbsp;&nbsp; **15.1**  Informal Dispute Resolution: Members and Custodians shall cooperate in good faith to resolve any dispute, controversy or claim arising out of, relating to or in connection with the Constitution of the KROWN DAC, including with respect to the formation, applicability, breach, termination, validity or enforceability thereof ("Dispute"). If the parties to any Dispute are unable to resolve a Dispute within ninety (90) days of notice of such Dispute being received by all parties thereof, such Dispute shall be finally settled by Binding Arbitration, as defined hereinafter. 
+
+ &nbsp;&nbsp;&nbsp; **15.2**  Binding Arbitration: Any Dispute not resolved within 90 days as set forth herein shall be referred to and finally resolved by arbitration under the __?__ American l Arbitration Division  (AAD) rules in effect at the time of the arbitration, except as they may be modified herein or by mutual agreement of the parties to such arbitration. The number of arbitrators shall be one, who shall be selected by the parties to the arbitration. The seat, or legal place, of arbitration shall be London, England. The language to be used in the arbitral proceedings shall be English. The governing law, for the purposes only of the interpretation and constructions of the provisions of the Constitution, and the contractual relations created thereby, shall be the laws of Anguilla. The arbitration award shall be final and binding on the parties thereto. Each Member and Custodian undertakes to carry out any award without delay and waive its right to any form of recourse insofar as such waiver can validly be made. Judgment upon the award may be entered by any court having jurisdiction thereof or having jurisdiction over the relevant party or its assets. Without prejudice to any indemnification provision of the Constitution, each party to arbitration shall pay their respective attorney’s fees and expenses. 
+
+&nbsp;&nbsp;&nbsp; **15.3**  No Class Arbitrations, Class Actions or Representative Actions: Any dispute arising out of or related to the Constitution shall be personal to the parties to the arbitration and shall not be brought as a class arbitration, class action or any other type of representative proceeding. There shall be no class arbitration or arbitration in which an individual attempts to resolve a dispute as a representative of another individual or group of individuals. Further, and to the furthest extent permitted by applicable law, a dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals. 
+
+&nbsp;&nbsp;&nbsp; **15.4**  Without prejudice to any other limitation of liability, disclaimer, waiver or release prescribed by the Constitution or any part thereof (including but not limited to the Terms and Conditions), and to the furthest extent permitted by any applicable law, any claims, demands, actions, damages or proceedings by any Member against the KROWN DAC, Custodian Board (or any servant or agent thereof), or any other Member, with respect to any action or omission of such persons and arising out of or related to the Constitution shall be limited to the assets of the KROWN DAC, as exist from time to time. 
 
 # 16. **VOLUNTARY WINDING 
 
-| 16.1 | Subject to any provision to the contrary in the Constitution the KROWN DAC may voluntarily commence to dissolve by Extraordinary Resolution of the Custodian Board. Upon the dissolution of the KROWN DAC and distribution of any net assets of the KROWN DAC to Members, each Member shall be immediately and without more released from any obligation, and no longer entitled to any benefit pursuant to this Constitution. |
+&nbsp;&nbsp;&nbsp; **16.1**  Subject to any provision to the contrary in the Constitution the KROWN DAC may voluntarily commence to dissolve by Extraordinary Resolution of the Custodian Board. Upon the dissolution of the KROWN DAC and distribution of any net assets of the KROWN DAC to Members, each Member shall be immediately and without more released from any obligation, and no longer entitled to any benefit pursuant to this Constitution. 
 
 # 17. **AMENDMENT OF CONSTITUTION**
 
-|17.1| Save as otherwise provided in this Constitution, the Custodian Board may by Special Resolution make, amend, restate, supplement or otherwise modify any provision of this Constitution and same shall thereupon and without more be effective and binding on or against each Member of the KROWN DAC. |
+&nbsp;&nbsp;&nbsp; **17.1** Save as otherwise provided in this Constitution, the Custodian Board may by Special Resolution make, amend, restate, supplement or otherwise modify any provision of this Constitution and same shall thereupon and without more be effective and binding on or against each Member of the KROWN DAC. |
 
 # 18. **TERMS AND CONDITIONS**
-| 18.1 | The Terms and Conditions issued by Genesis Member at the Token Distribution shall be incorporated herein and form a part of this Constitution. The Custodian Board may by Special Resolution make, amend, restate, supplement or otherwise modify any provision of the Terms and Conditions and same shall thereupon and without more be effective and binding on or against each Member of the KROWN DAC. |
+&nbsp;&nbsp;&nbsp; **18.1**  The Terms and Conditions issued by Genesis Member at the Token Distribution shall be incorporated herein and form a part of this Constitution. The Custodian Board may by Special Resolution make, amend, restate, supplement or otherwise modify any provision of the Terms and Conditions and same shall thereupon and without more be effective and binding on or against each Member of the KROWN DAC. 
 
 # 19. **APPLICABLE LAW**
 
-| 19.1 | The governing law for the purposes only of the interpretation and constructions of the provisions of the Constitution, and the contractual relations created thereby, shall be the laws of Wyoming. |
+&nbsp;&nbsp;&nbsp; **19.1**  The governing law for the purposes only of the interpretation and constructions of the provisions of the Constitution, and the contractual relations created thereby, shall be the laws of Wyoming. |
 
 # 20. **SEVERABILITY**
 
-| 20.1 | The Constitution, including any exhibits attached hereto, materials incorporated herein by reference and material issued pursuant to the provisions of the Constitution from time to time, constitutes the entire agreement between the parties hereto and supersedes all prior or contemporaneous agreements and understandings, both written and oral, between such parties with respect to the subject matter hereof, including, without limitation, any public or other statements or presentations made by any Genesis Member, DAC or any member, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof, save and except for the Terms and Conditions. |
+&nbsp;&nbsp;&nbsp; **20.1**  The Constitution, including any exhibits attached hereto, materials incorporated herein by reference and material issued pursuant to the provisions of the Constitution from time to time, constitutes the entire agreement between the parties hereto and supersedes all prior or contemporaneous agreements and understandings, both written and oral, between such parties with respect to the subject matter hereof, including, without limitation, any public or other statements or presentations made by any Genesis Member, DAC or any member, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof, save and except for the Terms and Conditions. |
 
-| 20.2 | If any of the provisions of the Constitution are deemed to be invalid, void or unenforceable under any applicable law, the remaining provisions shall continue in full force and effect. |
+&nbsp;&nbsp;&nbsp; **20.2**  If any of the provisions of the Constitution are deemed to be invalid, void or unenforceable under any applicable law, the remaining provisions shall continue in full force and effect. |
 
-| 20.3 | By acceptance of KROWN DAC Tokens, whether at the Token Distribution or upon transfer from any holder of KROWN DAC Tokens or usage of KROWN Tokens, Member expressly acknowledges, accepts, agrees and shall be subject to the terms and conditions of the Constitution and the Terms and Conditions, each as amended, restated, supplemented or otherwise modified from time to time. |
+&nbsp;&nbsp;&nbsp; **20.3** | By acceptance of KROWN DAC Tokens, whether at the Token Distribution or upon transfer from any holder of KROWN DAC Tokens or usage of KROWN Tokens, Member expressly acknowledges, accepts, agrees and shall be subject to the terms and conditions of the Constitution and the Terms and Conditions, each as amended, restated, supplemented or otherwise modified from time to time. |
 
 # 21. **BINDING AGREEMENT**
 
-| 21.1 | The provisions of the Constitution shall constitute the agreement by and between each Member and each other Member of the DAC, from time to time, _inter se_. |
+ &nbsp;&nbsp;&nbsp; **21.1**  The provisions of the Constitution shall constitute the agreement by and between each Member and each other Member of the DAC, from time to time, _inter se_. |
 
 # **SCHEDULE**
 
@@ -243,9 +316,11 @@ NOW THEREFORE in consideration of the mutual understanding contained in this T&C
 
 2. By accepting a KROWN Token, Member confirms that it is the holder of the Token, a member of the KROWN DAC and has read, understands and agrees to the T&C. A personand/ or individual or entity shall indicate their acceptance of a Token by:
 
-(a) In the case of any initial recipient of a Token (or assignee/transferee thereof), pursuant to the Token Distribution (as defined hereinafter), by registering the Token through the KROWN DAC software.
-(b) In any other case, by accepting the transfer or assignment of a Token from a holder of Tokens and/or registering the Token through the KROWN DAC software.
-(c) In either case, and in any event, by any usage of Tokens including but not limited to exercise of voting rights or receipt of distributions of assets.
+&nbsp;&nbsp;&nbsp;(a) In the case of any initial recipient of a Token (or assignee/transferee thereof), pursuant to the Token Distribution (as defined hereinafter), by registering the Token through the KROWN DAC software.
+
+&nbsp;&nbsp;&nbsp;(b) In any other case, by accepting the transfer or assignment of a Token from a holder of Tokens and/or registering the Token through the KROWN DAC software.
+
+&nbsp;&nbsp;&nbsp;(c) In either case, and in any event, by any usage of Tokens including but not limited to exercise of voting rights or receipt of distributions of assets.
 
 3. CSX Corp has prepared a website, available at www.krown.club describing the proposed activities of KROWN DAC and the mechanisms through which such activities shall be conducted. By accepting and holding a Token, Member confirms that it has read and understands the Website.
 
@@ -297,16 +372,25 @@ Any tokens not distributed from this tranche shall be thereby permanently removi
 
 19. By accepting any Token, Member agrees to be bound by the T&C and in particular, Member represents and warrants that:
 
-(a) It is authorized and has full power and authority to accept and hold the Token according to the laws that apply in Member’s jurisdiction of domicile or other applicable jurisdiction; 
-(b) It is authorized and has full power to execute, deliver and be bound by the T&C and to carry out and perform its obligations thereunder;
-(c) If an individual, is at least 18 years old and of sufficient legal age and capacity to accept and hold the Tokens and, if a legal individual, it is validly constituted and in good standing under the laws of its domicile and each jurisdiction in which it operates or conducts business;
-(d) That the execution, delivery and performance of and by Member under the T&C requires no approval, authorization or other action from any governmental or regulatory authority or any other person, entity or bureau, whatsoever, other than Member;
-(e) That the execution delivery and performance of and by Member under the T&C shall not, and will not in the future, result in any violation of, be in conflict with or constitute a material default under (i) any provision of Member’s constitutional documents (if applicable), (ii) any provision of any judgment, order or decree to which Member is a party, by which Member is bound or to which Member’s material assets are subject, (iii) any material agreement, obligation, duty or commitment to which Member is a party or is bound, or (iv) any laws, regulations, rules or contracts applicable to Member.
-(f) It is not accepting and holding the Tokens for the purpose of any speculative investment; 
-(g) It will not use any Tokens for any illegal activity,  including but not limited to money laundering and the financing of terrorism; 
-(h) It shall be responsible for determining whether the acceptance and holding of the Tokens is appropriate for it; 
-(i) It shall accept and hold the Tokens exclusively for usage in accordance with the Constitution of the KROWN DAC; 
-(j) It understands the risks associated with the acceptance and holding of the Tokens (including but not limited to the risks related to the non-development of the KROWN DAC and its operations).
+&nbsp;&nbsp;&nbsp;(a) It is authorized and has full power and authority to accept and hold the Token according to the laws that apply in Member’s jurisdiction of domicile or other applicable jurisdiction; 
+
+&nbsp;&nbsp;&nbsp;(b) It is authorized and has full power to execute, deliver and be bound by the T&C and to carry out and perform its obligations thereunder;
+
+&nbsp;&nbsp;&nbsp;(c) If an individual, is at least 18 years old and of sufficient legal age and capacity to accept and hold the Tokens and, if a legal individual, it is validly constituted and in good standing under the laws of its domicile and each jurisdiction in which it operates or conducts business;
+
+&nbsp;&nbsp;&nbsp;(d) That the execution, delivery and performance of and by Member under the T&C requires no approval, authorization or other action from any governmental or regulatory authority or any other person, entity or bureau, whatsoever, other than Member;
+
+&nbsp;&nbsp;&nbsp;(e) That the execution delivery and performance of and by Member under the T&C shall not, and will not in the future, result in any violation of, be in conflict with or constitute a material default under (i) any provision of Member’s constitutional documents (if applicable), (ii) any provision of any judgment, order or decree to which Member is a party, by which Member is bound or to which Member’s material assets are subject, (iii) any material agreement, obligation, duty or commitment to which Member is a party or is bound, or (iv) any laws, regulations, rules or contracts applicable to Member.
+
+&nbsp;&nbsp;&nbsp;(f) It is not accepting and holding the Tokens for the purpose of any speculative investment; 
+
+&nbsp;&nbsp;&nbsp;(g) It will not use any Tokens for any illegal activity,  including but not limited to money laundering and the financing of terrorism;
+
+&nbsp;&nbsp;&nbsp;(h) It shall be responsible for determining whether the acceptance and holding of the Tokens is appropriate for it; 
+
+&nbsp;&nbsp;&nbsp;(i) It shall accept and hold the Tokens exclusively for usage in accordance with the Constitution of the KROWN DAC; 
+
+&nbsp;&nbsp;&nbsp;(j) It understands the risks associated with the acceptance and holding of the Tokens (including but not limited to the risks related to the non-development of the KROWN DAC and its operations).
 
 20. Upon request of or notification by CSX Corp or KROWN DAC, and from time to time, Member shall immediately provide information and documents that CSX Corp or KROWN DAC, in its or their sole discretion, deems necessary to comply with the laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain, including but not limited to judicial decrees, order, processes or arbitral awards. Such documents or information shall include, but not be limited to, certified copies of Member’s passport, utility bills, government identification cards, sworn statements and information and documentation relating to persons or entities affiliated with Member. Member expressly and irrevocably consents to the disclosure of such information and documentation, and the recording or making of copies thereof, required for compliance with any laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain. Failure by Member to comply with any such request for information or documentation may result in measures taken against such Member, including but not limited to the unregistering of such Member as a member the KROWN DAC.
 
@@ -330,16 +414,25 @@ Any tokens not distributed from this tranche shall be thereby permanently removi
 
 29. Member acknowledges, understands and agrees that the following further risks relate to the governance and/or operations of the Tokens and KROWN DAC:
 
-(a) Strong competition resulting in difficulty of KROWN DAC being voted/appointed as a main block producer of EOS blockchain;
-(b) Insufficient capacity to effectively implement activity and decisions of the KROWN DAC;
-(c) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of KROWN DAC;
-(d) Governance of KROWN DAC being subject to the control by small self interested groups;
-(e) DDoS or flood attacks;
-(f) Regulatory and Legal threats;
-(g) Inappropriate content on EOS blockchain;
-(h) Governance paralysis or other inability to reach quorum or effect governance decisions;
-(i) Difficulties arising from the use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
-(j) Delays in implementation of EOSIO software.
+&nbsp;&nbsp;&nbsp;(a) Strong competition resulting in difficulty of KROWN DAC being voted/appointed as a main block producer of EOS blockchain;
+
+&nbsp;&nbsp;&nbsp;(b) Insufficient capacity to effectively implement activity and decisions of the KROWN DAC;
+
+&nbsp;&nbsp;&nbsp;(c) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of KROWN DAC;
+
+&nbsp;&nbsp;&nbsp;(d) Governance of KROWN DAC being subject to the control by small self interested groups;
+
+&nbsp;&nbsp;&nbsp;(e) DDoS or flood attacks;
+
+&nbsp;&nbsp;&nbsp;(f) Regulatory and Legal threats;
+
+&nbsp;&nbsp;&nbsp;(g) Inappropriate content on EOS blockchain;
+
+&nbsp;&nbsp;&nbsp;(h) Governance paralysis or other inability to reach quorum or effect governance decisions;
+
+&nbsp;&nbsp;&nbsp;(i) Difficulties arising from the use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
+
+&nbsp;&nbsp;&nbsp;(j) Delays in implementation of EOSIO software.
 
 30. Member acknowledges, understands and agrees that the regulatory status of decentralized autonomous communities, cryptographic tokens, digital assets, blockchain technology and distributed ledger technology is unsettled and/or unclear in many jurisdictions, and it is difficult to predict how or whether international, governmental, regulatory and judicial authorities will regulate such technologies and organizations and how or whether such international, governmental, regulatory and judicial authorities may interpret or modify existing laws, regulations or rules that affect such matters. Member acknowledges, understands and agrees that such interpretation or modification may have adverse consequences to the Tokens, and their holders and usage thereof, and the KROWN DAC; such interpretations and modifications including but not limited to characterizing the Tokens as regulated financial instruments or characterizing the KROWN DAC as a regulated investment vehicle.  Member acknowledges, understands and agrees the KROWN DAC may cease operations in any jurisdiction, and discontinue membership of any persons residing or affected by any jurisdiction, in the event that the laws or regulations in such jurisdictions render it unlawful or commercially undesirable to maintain any link with such jurisdictions.
 
