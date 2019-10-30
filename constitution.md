@@ -141,9 +141,9 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **5.4**  Each candidate for the position of Custodian must be a Member and may be an individual or a legal entity. 
 
-&nbsp;&nbsp;&nbsp; **5.5**  Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount of one (1) EOS for each one (1) lunar cycle (27.321 days) term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution. 
+&nbsp;&nbsp;&nbsp; **5.5**  Custodians shall be nominated, elected and appointed in accordance with the procedure, qualifications and mechanism prescribed by Nomination Directive, from time to time, which Nomination Directive shall include, but shall not be limited to, provisions requiring each candidate to make a declaration specifying the emoluments that such candidate shall require if appointed, up to a maximum amount of one (1) EOS for each one (1) lunar cycle (29.5306days) term, (&quot;Candidate Emoluments Declaration&quot;), such maximum amount being subject to change by Special Resolution. 
 
-&nbsp;&nbsp;&nbsp; **5.6**  Each Custodian shall hold office for the term of calendar month, commencing at midnight on the date of appointment and concluding on the final day of such lunar cycle, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold. 
+&nbsp;&nbsp;&nbsp; **5.6**  Each Custodian shall hold office for the term of one (1) lunar cycle, commencing at midnight on the date of appointment and concluding on the final day of such lunar cycle, save and except that the term for the first Custodian Board, superseding the Genesis Board, shall be deemed to commence at midnight of the day of attainment of the Activation Threshold. 
 
 &nbsp;&nbsp;&nbsp; **5.7**  In the case of a Custodian who is an individual the term of office for such member shall terminate on the individual’s death, resignation or removal. The bankruptcy, resignation or removal of a corporate Custodian shall terminate the term of office of such Custodian. 
 
@@ -424,25 +424,21 @@ Any tokens not distributed from this tranche shall be thereby permanently removi
 
 29. Member acknowledges, understands and agrees that the following further risks relate to the governance and/or operations of the Tokens and KROWN DAC:
 
-&nbsp;&nbsp;&nbsp;(a) Strong competition resulting in difficulty of KROWN DAC being voted/appointed as a main block producer of EOS blockchain;
+&nbsp;&nbsp;&nbsp;(a) Insufficient capacity to effectively implement activity and decisions of the KROWN DAC;
 
-&nbsp;&nbsp;&nbsp;(b) Insufficient capacity to effectively implement activity and decisions of the KROWN DAC;
+&nbsp;&nbsp;&nbsp;(b) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of KROWN DAC;
 
-&nbsp;&nbsp;&nbsp;(c) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of KROWN DAC;
+&nbsp;&nbsp;&nbsp;(c) Governance of KROWN DAC being subject to the control by small self interested groups;
 
-&nbsp;&nbsp;&nbsp;(d) Governance of KROWN DAC being subject to the control by small self interested groups;
+&nbsp;&nbsp;&nbsp;(d) DDoS or flood attacks;
 
-&nbsp;&nbsp;&nbsp;(e) DDoS or flood attacks;
+&nbsp;&nbsp;&nbsp;(e) Regulatory and Legal threats;
 
-&nbsp;&nbsp;&nbsp;(f) Regulatory and Legal threats;
+&nbsp;&nbsp;&nbsp;(f) Inappropriate content on EOS blockchain;
 
-&nbsp;&nbsp;&nbsp;(g) Inappropriate content on EOS blockchain;
+&nbsp;&nbsp;&nbsp;(g) Governance paralysis or other inability to reach quorum or effect governance decisions;
 
-&nbsp;&nbsp;&nbsp;(h) Governance paralysis or other inability to reach quorum or effect governance decisions;
-
-&nbsp;&nbsp;&nbsp;(i) Difficulties arising from the use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
-
-&nbsp;&nbsp;&nbsp;(j) Delays in implementation of EOSIO software.
+&nbsp;&nbsp;&nbsp;(h) Delays in implementation of EOSIO software.
 
 30. Member acknowledges, understands and agrees that the regulatory status of decentralized autonomous communities, cryptographic tokens, digital assets, blockchain technology and distributed ledger technology is unsettled and/or unclear in many jurisdictions, and it is difficult to predict how or whether international, governmental, regulatory and judicial authorities will regulate such technologies and organizations and how or whether such international, governmental, regulatory and judicial authorities may interpret or modify existing laws, regulations or rules that affect such matters. Member acknowledges, understands and agrees that such interpretation or modification may have adverse consequences to the Tokens, and their holders and usage thereof, and the KROWN DAC; such interpretations and modifications including but not limited to characterizing the Tokens as regulated financial instruments or characterizing the KROWN DAC as a regulated investment vehicle.  Member acknowledges, understands and agrees the KROWN DAC may cease operations in any jurisdiction, and discontinue membership of any persons residing or affected by any jurisdiction, in the event that the laws or regulations in such jurisdictions render it unlawful or commercially undesirable to maintain any link with such jurisdictions.
 
